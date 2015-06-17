@@ -1,2 +1,1 @@
-# cucapy-skorun
 # nocapy-skorun
